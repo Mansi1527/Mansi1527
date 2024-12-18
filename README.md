@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">My name is Mansi and I'm a Web Developer from India.</h1>
 
 ###
 
-<p align="left">My name is Mansi and I'm a Web Developer from India.</p>
+<p align="left"></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating website since 2021...<br>📚 I'm currently learning web development ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
