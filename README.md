@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating website since 2021...<br>📚 I'm currently learning web development ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating website since 2021...<br>📚 I'm currently learning web development ...<br></p>
 
 ###
 
